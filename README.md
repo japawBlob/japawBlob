@@ -1,7 +1,7 @@
-Hi, I’m @japawBlob, which is my name becouse github didnt allow me to name myself blob#AA791D
-I currently study Computer Engeneering at CTU FEL
-I enjoy working with low level languages and embedded systems. 
-Fluent in C, can exist in C++, scripting in python and eager to learn Rust.
+Hi, I’m @japawBlob, which is my name becouse github didnt allow me to name myself blob#AA791D  
+I currently study Computer Engeneering at CTU FEL  
+I enjoy working with low level languages and embedded systems.  
+Fluent in C, can exist in C++, scripting in python and eager to learn Rust.  
 
 <!---
 japawBlob/japawBlob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
