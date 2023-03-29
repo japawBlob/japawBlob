@@ -1,6 +1,6 @@
 Hi, I’m @japawBlob, which is my name becouse github didnt allow me to name myself blob#AA791D  
 I currently study Computer Engeneering at CTU FEL  
-I enjoy working with low level languages and embedded systems.  
+I enjoy working with systems languages and embedded systems.  
 Fluent in C, can exist in C++, scripting in python and eager to learn Rust.  
 
 <!---
