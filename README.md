@@ -1,5 +1,5 @@
 Hi, I’m @japawBlob, which is my name because github didn't allow me to name myself blob#AA791D  
-I work at STMicroelectronics with automotive microcontrollers.  
+I work at TurboNext.ai with LLM inference.  
 I enjoy working with systems languages and embedded systems.  
 Fluent in C, can exist in C++, scripting in python and eager to learn Rust.  
 
